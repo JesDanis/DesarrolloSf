@@ -19,6 +19,7 @@ public class Deber {
         System.out.println("Huambra Horrible");
         System.out.println("Tu mismo feo");
         System.out.println("Huambra fea tu mismo shsh");
+        System.out.println("A quien shsheas -.-");
     }
     
 }
