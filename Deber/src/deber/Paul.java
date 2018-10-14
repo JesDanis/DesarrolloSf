@@ -13,6 +13,6 @@ public class Paul {
     public static void main(String[] args) {
         System.out.println("Funcionó...");
         System.out.println("Hola Pabuuu");
-        System.out.println("Hola Pabu funciona :b");
+        System.out.println("Hola Pabu funciona ..:b");
     }
 }
