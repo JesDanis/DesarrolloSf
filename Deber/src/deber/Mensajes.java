@@ -10,5 +10,7 @@ package deber;
  * @author Usuario
  */
 public class Mensajes {
-    
+    public static void main(String[] args) {
+        
+    }
 }
