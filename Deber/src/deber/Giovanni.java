@@ -7,12 +7,10 @@ package deber;
 
 /**
  *
- * @author DANIS
+ * @author Usuario
  */
-public class prueba_Jess {
+public class Giovanni {
     public static void main(String[] args) {
-        System.out.println("Giovaaaa");
-        System.out.println("Mande");
-                
+        System.out.println("Hola Compañeros");
     }
 }
