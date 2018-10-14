@@ -9,7 +9,7 @@ package deber;
  *
  * @author Usuario
  */
-public class Mensajes {
+public class Mensajes_Df {
     public static void main(String[] args) {
         System.out.println("Giovas");
         System.out.println("Hola compañeros...");
