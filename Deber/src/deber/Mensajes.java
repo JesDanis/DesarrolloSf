@@ -12,5 +12,6 @@ package deber;
 public class Mensajes {
     public static void main(String[] args) {
         System.out.println("Giovas");
+        System.out.println("Hola compañeros...");
     }
 }
