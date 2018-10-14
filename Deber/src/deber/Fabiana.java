@@ -20,5 +20,7 @@ public class Fabiana {
         System.out.println("Responde FABU...");
         System.out.println("ya creo q funca jajja");
         System.out.println("mensaje para comprobar ");
+     
+        System.out.println("FABU funiono ? PB");   
     }
 }
