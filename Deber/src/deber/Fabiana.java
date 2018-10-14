@@ -12,6 +12,9 @@ package deber;
 public class Fabiana {
     public static void main(String[] args) {
         System.out.println("Hola Compañeros");
-        System.out.println("Hola. Att: Jessica");
+        System.out.println("Hola. Atentamente: Jessica");
+        System.out.println("Hola. Att: Giova");
+        System.out.println("Hola. Atentamente: Jessica");
+        System.out.println("Hola. Atentamente: yo");
     }
 }

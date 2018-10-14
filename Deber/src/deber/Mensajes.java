@@ -9,11 +9,8 @@ package deber;
  *
  * @author Usuario
  */
-public class Giovanni {
+public class Mensajes {
     public static void main(String[] args) {
-        System.out.println("Hola Compañeros");
-        System.out.println("Hola, Giova. Att. Jessica");
-        System.out.println("ABC");
-        System.out.println("Ya valio????");
+        System.out.println("Giova");
     }
 }
