@@ -11,6 +11,6 @@ package deber;
  */
 public class Mensajes {
     public static void main(String[] args) {
-        System.out.println("Giova");
+        System.out.println("Giovas");
     }
 }
