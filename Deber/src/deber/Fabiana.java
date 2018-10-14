@@ -13,6 +13,5 @@ public class Fabiana {
     public static void main(String[] args) {
         System.out.println("Hola Compañeros");
         System.out.println("Hola. Att: Jessica");
-        System.out.println("Hola Fabu...");
     }
 }
