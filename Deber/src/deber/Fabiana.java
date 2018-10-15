@@ -21,6 +21,5 @@ public class Fabiana {
         System.out.println("ya creo q funca jajja");
         System.out.println("FABU funiono ? PB");   
         System.out.println("J.D.");
-        System.out.println("G.R.");
     }
 }
