@@ -13,6 +13,6 @@ public class Richard {
     public static void main(String[] args) {
         
         System.out.println("Hola Muchachos");
-        System.out.println("Gio");
+        System.out.println("GR");
     }
 }
