@@ -3,22 +3,15 @@
  * To change this template file, choose Tools | Templates
  * and open the template in the editor.
  */
-package deber;
+
 
 /**
  *
- * @author Estudiante
+ * @author FabianaJaramillo
  */
-public class Richard {
+public class JaramilloFabiana {
     public static void main(String[] args) {
-        
-        System.out.println("Hola Muchachos");
-<<<<<<< HEAD
         System.out.println("Gio");
-        System.out.println("Hola que hace");
-=======
-        System.out.println("GR");
-        System.out.println("JD");
->>>>>>> origin/master
+        System.out.println("FABIANA FUNCIONO _???");
     }
 }
